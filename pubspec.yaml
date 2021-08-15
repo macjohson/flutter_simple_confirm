@@ -1,7 +1,7 @@
 name: simple_confirm
-description: A new Flutter project.
+description: 简洁的弹出确认对话框.
 version: 0.0.1
-homepage:
+homepage: https://github.com/macjohson/flutter_simple_confirm
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
